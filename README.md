@@ -1,4 +1,4 @@
 # hellolololol
 
-A thought experiment in lolcode
+A thought experiment in lolcode.
 
